@@ -11,5 +11,9 @@ namespace Catstagram.Server.Data.Models
 
         [ForeignKey("QuoteId")]
         public virtual List<Quote> quotes { get; set; }
+        public int CountryId { get; set; }
+
+        [ForeignKey("CountryId")]
+        public Country Country { get; set; }
     }
 }

@@ -1,4 +1,3 @@
-C:\Users\Farid\source\repos\EmotionDetection\EmotionApi\obj\Debug\net5.0\EmotionApi.csprojAssemblyReference.cache
 C:\Users\Farid\source\repos\EmotionDetection\EmotionApi\obj\Debug\net5.0\EmotionApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Farid\source\repos\EmotionDetection\EmotionApi\obj\Debug\net5.0\EmotionApi.AssemblyInfoInputs.cache
 C:\Users\Farid\source\repos\EmotionDetection\EmotionApi\obj\Debug\net5.0\EmotionApi.AssemblyInfo.cs

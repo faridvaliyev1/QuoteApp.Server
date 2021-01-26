@@ -19,5 +19,6 @@ namespace EmotionApi.Data.Models
 
         [ForeignKey("MoodId")]
         public virtual Mood mood { get; set; }
+        public string Lang { get; set; }
     }
 }
